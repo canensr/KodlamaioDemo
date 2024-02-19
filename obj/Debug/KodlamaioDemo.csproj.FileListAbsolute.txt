@@ -1,0 +1,7 @@
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.exe.config
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.exe
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.pdb
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.csproj.AssemblyReference.cache
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.csproj.CoreCompileInputs.cache
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.exe
+C:\Users\ENSAR\OneDrive\Masaüstü\Projects\Projects\enginDemirog\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.pdb
